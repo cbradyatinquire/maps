@@ -1,8 +1,8 @@
 enablePlugins(org.nlogo.build.NetLogoExtension)
 
-netLogoExtName      := "graph"
+netLogoExtName      := "maps"
 
-netLogoClassManager := "GraphExtension"
+netLogoClassManager := "MapsExtension"
 
 scalaVersion           := "2.11.7"
 
